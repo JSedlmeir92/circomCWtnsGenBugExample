@@ -1,0 +1,4 @@
+*.r1cs
+*.sym
+/circuit_cpp
+/circuit_js
