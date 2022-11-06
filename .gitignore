@@ -1,4 +1,5 @@
 *.r1cs
 *.sym
+*.wtns
 /circuit_cpp
 /circuit_js
